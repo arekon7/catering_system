@@ -7,3 +7,5 @@ Third user type - admin, could manage all users and companies accounts, edit the
 System created using PHP MVC Laravel framework.
 
 For more information read README.TXT
+
+Full documentation file KonstantinasArefjevasBBD2018.pdf
