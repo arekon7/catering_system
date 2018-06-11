@@ -4,3 +4,5 @@ System aimed for two main user types: catering companies and their customers. Ca
 Third user type - admin, could manage all users and companies accounts, edit their data and delete.
 
 System created using PHP MVC Laravel framework.
+
+For more information read README.TXT
